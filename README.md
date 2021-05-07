@@ -30,5 +30,5 @@ All posts that were posted by the currently logged in user also have an edit but
 ![EditDelete](demo/EditDelete.gif)
 
 ### Mobile Friendly Layout
-UI is clean and usable on narrow screen widths.
+UI is designed to be clean and usable on both desktop devices and devices with narrow screen widths.
 ![MobileLayout](demo/MobileLayout.gif)
